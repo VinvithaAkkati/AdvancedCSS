@@ -1,0 +1,19 @@
+section {
+    background: rgb(250, 249, 249) 
+}
+
+#overview-section1 {
+    background: rgb(9, 9, 9);
+    color:rgb(50, 144, 70);
+}
+.section2-h1-title {
+    color: rgb(62, 60, 155);
+}
+h1{
+    font-family: "Anton", sans-serif; 
+}
+
+#overview-section1 h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
